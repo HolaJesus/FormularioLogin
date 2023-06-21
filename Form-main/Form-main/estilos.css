@@ -1,0 +1,73 @@
+body {
+    background: url(Imagenes/img2.jpg);
+    border-radius: 500px;
+}
+
+.fuenteH1 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    background-color: yellow;
+    border-radius: 20px;
+}
+
+.fuenteH2 {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    background-color: orangered;
+    border-radius: 20px;
+
+
+}
+
+.p1 {
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 20px;
+    background-color: yellow;
+    border-radius: 20px;
+    width: 400px;
+
+
+}
+
+.p2 {
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 20px;
+    background-color: yellow;
+    border-radius: 20px;
+    width: 400px;
+
+
+}
+
+.fuenteBlanca {
+    color: black;
+}
+
+
+.legend1 {
+    color: black;
+    font-size: 30px;
+    background-color: orangered;
+    border-radius: 20px;
+
+}
+
+label {
+    size: 40;
+}
+
+.Registro {
+    border: 10px solid red;
+    width: 440px;
+    margin: 0% auto;
+    background-color: white;
+    opacity: 85%;
+    text-align: center;
+    font-size: 25px;
+}
